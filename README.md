@@ -2,8 +2,8 @@
 
 A visually appealing number guessing game built with Python and Tkinter, featuring multiple difficulty levels, high score tracking, and a neon-inspired UI.
 
-![Game Screenshot](![image](https://github.com/user-attachments/assets/03bb1985-c9cd-4101-8974-ea2ee687fcd7)
-) 
+![Game Screenshot](images/![Number Guesser](https://github.com/user-attachments/assets/12a885e8-e8a5-491e-993a-15a9edaaccfb)
+)
 
 ## Features
 
